@@ -1,6 +1,6 @@
 
 public class Hanf {
-	private int value; 
+	private int value1; 
 	
 	//ddd
 
